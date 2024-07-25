@@ -11,6 +11,28 @@ The tool is made from the web, and it can also be used as a desktop tool.
 <br />
 <br />
 
-![프로필 이미지](https://avatars.githubusercontent.com/{pinomaker})
-![프로필 이미지](https://avatars.githubusercontent.com/{pinomaker-hoo})
+# Member
 
+<div>
+  <h2>PM</h2>
+  <img src="https://avatars.githubusercontent.com/zhco00" alt="profile" width="180px"/>
+  <img src="https://avatars.githubusercontent.com/babting" alt="profile" width="180px"/>
+  <br />
+  <h2>F.E.</h2>
+  <img src="https://avatars.githubusercontent.com/hyerim03" alt="profile" width="180px"/>
+  <img src="https://avatars.githubusercontent.com/nnnnnnniam1" alt="profile" width="180px"/>
+  <img src="https://avatars.githubusercontent.com/Ruubber" alt="profile" width="180px"/>
+  <br />
+  <h2>B.E.</h2>
+  <img src="https://avatars.githubusercontent.com/pinomaker-hoo" alt="profile" width="180px"/>
+  <img src="https://avatars.githubusercontent.com/Limdongdang" alt="profile" width="180px"/>
+  <img src="https://avatars.githubusercontent.com/yoonali" alt="profile" width="180px"/>
+  <br />
+  <h2>APP</h2>
+  <img src="https://avatars.githubusercontent.com/misty-life" alt="profile" width="180px"/>
+</div>
+
+
+## Team Projects
+- [HI-DICE](https://web.hi-dice.com)
+- [NONAME-SCHOOL]()
