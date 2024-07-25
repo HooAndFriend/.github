@@ -11,4 +11,6 @@ The tool is made from the web, and it can also be used as a desktop tool.
 <br />
 <br />
 
-<img width="1728" alt="스크린샷 2024-04-26 오후 6 46 41" src="https://github.com/HooAndFriend/.github/assets/56928532/c02c2f0a-ba02-49a8-ad30-7c6730ece40a">
+![프로필 이미지](https://avatars.githubusercontent.com/{pinomaker})
+![프로필 이미지](https://avatars.githubusercontent.com/{pinomaker-hoo})
+
